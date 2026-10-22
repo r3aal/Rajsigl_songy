@@ -1,5 +1,5 @@
-# Rajsigl_songy
+# README
 - tenhle repozitar slouzi pro publikovani AI pisnicek o Jakubovi Rajsiglovi
 - pisnicky jsou v Issues
-# DISCLAIMER:
+## DISCLAIMER:
 - neberte tyhle pisnicky vazne, vsechno je to jen vtip, nejedna se o sikanu ani nic podobneho
