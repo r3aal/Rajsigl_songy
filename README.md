@@ -1,4 +1,4 @@
-# README
+# **READ ME**
 - tenhle repozitar slouzi pro publikovani AI pisnicek o Jakubovi Rajsiglovi
 - pisnicky jsou v Issues
 ## DISCLAIMER:
