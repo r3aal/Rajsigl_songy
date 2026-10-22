@@ -1,3 +1,2 @@
-## Touha po vášni
-**hiphop & rap**  
+## Touha po vášni - hiphop & rap  
 https://share.gemini.google/PzfQaPuioogT
